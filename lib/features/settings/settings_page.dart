@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:travel_test/features/home/widgets/nav_bar.dart';
+import 'package:flighter_manager/features/home/widgets/nav_bar.dart';
 
 import '../../core/config/app_colors.dart';
 import '../../core/widgets/appbar/custom_appbar.dart';

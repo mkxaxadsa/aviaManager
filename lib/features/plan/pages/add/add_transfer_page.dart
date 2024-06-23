@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:go_router/go_router.dart';
-import 'package:travel_test/core/widgets/textfields/time_field.dart';
+import 'package:flighter_manager/core/widgets/textfields/time_field.dart';
 
 import '../../../../core/config/app_colors.dart';
 import '../../../../core/utils.dart';

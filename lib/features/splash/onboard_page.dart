@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:travel_test/core/utils.dart';
+import 'package:flighter_manager/core/utils.dart';
 
 import '../../core/config/app_colors.dart';
 import '../../core/widgets/buttons/primary_button.dart';
