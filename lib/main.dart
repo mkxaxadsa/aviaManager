@@ -1,4 +1,3 @@
-import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -14,7 +13,6 @@ import 'features/plan/models/transfer.dart';
 void main() async {
   await Hive.initFlutter();
   WidgetsFlutterBinding.ensureInitialized();
-  await AppTrackingTransparency.requestTrackingAuthorization();
   Hive.registerAdapter(PlanAdapter());
   Hive.registerAdapter(TransferAdapter());
   SystemChrome.setPreferredOrientations([
