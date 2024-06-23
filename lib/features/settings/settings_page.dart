@@ -28,7 +28,7 @@ class SettingsPage extends StatelessWidget {
                     MaterialPageRoute(
                       builder: (context) => const ScreenWatching(
                           data:
-                              'https://docs.google.com/document/d/1760Bvx-q50QT11ruArWE0EKTmWLXid9tN0p1zNmxN6g/edit?usp=sharing'),
+                              'https://docs.google.com/document/d/1G6_g1H8_r1wTF09weuUcu03ZjwUd_XCHrJkN5dRTi48/edit?usp=sharing'),
                     ),
                   );
                 },
@@ -43,7 +43,7 @@ class SettingsPage extends StatelessWidget {
                     MaterialPageRoute(
                       builder: (context) => const ScreenWatching(
                           data:
-                              'https://docs.google.com/document/d/1ch4jfptp6eaX-BU5P8F-OAdM9PyZzg7LBj7hU3Hac1g/edit?usp=sharing'),
+                              'https://docs.google.com/document/d/1_-olnn4ZwWDNTaRzxb2fA0ILZ2xsVs-X-MOXbJkhA4I/edit?usp=sharing'),
                     ),
                   );
                 },
@@ -57,7 +57,7 @@ class SettingsPage extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                       builder: (context) => const ScreenWatching(
-                          data: 'https://forms.gle/PVxj9hjo7fwMAb2v7'),
+                          data: 'https://forms.gle/yLhtwkSk2zVLHnXy7'),
                     ),
                   );
                 },
